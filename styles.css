@@ -27,6 +27,8 @@ h1, h2, h3, h4, h5, h6 {
     "cta"
     "footer";
 }
+#logo {
+    width: 100px;}
 
 header {
     grid-area: header;
@@ -35,6 +37,7 @@ header {
     margin: 0 30px 50px;
     padding-top: 20px;
 }
+
 
 p {
     font-family: 'Open Sans', sans-serif;
